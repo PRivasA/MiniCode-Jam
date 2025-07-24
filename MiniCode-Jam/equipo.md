@@ -1,7 +1,7 @@
 # Equipo
 
-- **Nombre:** xxx  
-  **Rol:** xxx
+- **Nombre:** Diana Paola Rivas Arana  
+  **Rol:** Desarrollador fronted
 
 - **Nombre:** xxx  
   **Rol:** xxx 
